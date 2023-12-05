@@ -1,0 +1,37 @@
+[
+    {
+        "username": "Anu",
+        "password": "$2y$10$JY9F98Zyv8Ez8MCFANp97O0hHm2kTmWLUg57kDL9Boc2lIeYYBwDm",
+        "email": "anu123@gmail.com",
+        "hometown": "UB",
+        "bday": "2003-09-27"
+    },
+    {
+        "username": "Maralgua",
+        "password": "$2y$10$A0c7sCyhbJ\/OfmAquiqUN.Dihzmq.SmR361T06w.NlHmB5H.dUgfO",
+        "email": "gmarlakaa@gmail.com",
+        "hometown": "UB",
+        "bday": "2002-12-08"
+    },
+    {
+        "username": "enkhsuvd",
+        "password": "$2y$10$yvXnKxGsZYri.3cs9u7mXebqcz8SSxVW9iRRL9ypCepMRh\/\/NOVrS",
+        "email": "enkhsuvd@gmail.com",
+        "hometown": "Uws",
+        "bday": "2001-08-29"
+    },
+    {
+        "username": "Ariunzul",
+        "password": "$2y$10$cfJTtUMwFzz4A4oYceer..5puQv3R81pbYLb0\/DArncTj.SkuJZRK",
+        "email": "aaaaa@yahoo.com",
+        "hometown": "Erdenet",
+        "bday": "2003-02-13"
+    },
+    {
+        "username": "Chimgee",
+        "password": "$2y$10$C9C9qq89\/wvM8mfi4rltnOiXsYtjVb92KjoUa4hAzPB0R4qOXuHi.",
+        "email": "chimgee6012@gmail.com",
+        "hometown": "nalaikh",
+        "bday": "2003-08-27"
+    }
+]
